@@ -29,7 +29,7 @@ Users should be able to:
 - User can view the github user account 
   
 ### Links
-- Live Site URL: [https://flyo-landing-page-main.netlify.app]()
+- Live Site URL: https://github-finder-api-main.netlify.app/
 
 ### Demo
 

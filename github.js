@@ -2,8 +2,8 @@ class Github {
   constructor() {
     // you can get your own key and id if u create a new Oauth app
     //folow this link : https://github.com/settings/developers
-    this.client_id = 'your client id';
-    this.client_secret = 'your client password';
+    this.client_id = '782bb1d28e2d68182f34';
+		this.client_secret = 'c78b5bb24394c3bd77834bf1bb82727d06736f42';
     this.repos_count = 5;
     this.repos_sort = 'created: asc';
   }
